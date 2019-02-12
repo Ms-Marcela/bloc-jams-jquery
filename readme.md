@@ -4,4 +4,7 @@ BlocJams is a music player. This was a forked project in which then I edited acc
 
 ![BlocJams Image](/assets/images/BlocJamsPic.png)
 
-[BlocJams](https://ms-marcela.github.io/bloc-jams-jquery/)
+[BlocJams on Github ](https://ms-marcela.github.io/bloc-jams-jquery/)
+
+
+[BlocJams on Netlify](https://blocjamss.netlify.com/)
